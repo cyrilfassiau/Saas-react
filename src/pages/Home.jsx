@@ -14,7 +14,7 @@ export default function Home() {
           </span>
           <div class="hero_btn">
             <button class="startBtn">Commencer gratuitement</button
-            ><button class="demoBtn">Voir la démo</button>
+            ><button class="demoBtn">See demo</button>
           </div>
         </div>
         <img src={hero_img} />
