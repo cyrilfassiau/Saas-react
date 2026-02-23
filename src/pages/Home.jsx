@@ -75,59 +75,52 @@ export default function Home() {
         </div>
         <div class="pricing_cards">
           <div class="card">
-            <div class="reco">PLAN RECOMMANDÉ</div>
+            <div class="reco">PRECOMMENDED PLAN</div>
             <h2>Pro</h2>
-            <span>Pour les freelances en pleine croissance</span>
-            <span><b>29€</b>/mois</span>
+            <span>For the freelancers</span>
+            <span><b>29€ </b>monthly</span>
             <ul>
-              <li>Clients illimités</li>
-              <li>Automatisation complète</li>
-              <li>Support prioritaire 24/7</li>
-              <li>Multi-devises & Exports</li>
+              <li>Unlimited clients</li>
+              <li>Full automation</li>
+              <li>24/7 support</li>
+              <li>Multi-currencies and export</li>
             </ul>
 
-            <button>Démarrer l'essai gratuit</button>
+            <button>Start free trial</button>
           </div>
         </div>
-        <button class="plans">Voir tous les plans</button>
+       
       </div>
     </section>
     <section class="faq">
       <h2>Questions fréquentes</h2>
       <details>
         <summary>
-          <span>Mes données sont-elles en sécurité ?</span>
+          <span>Is my data secure?</span>
         </summary>
         <p>
-          Absolument. Nous utilisons un cryptage de niveau bancaire (256-bit
-          SSL) pour protéger vos données. Vos informations financières ne sont
-          jamais partagées.
+       
+Absolutely. We use bank-grade encryption (256-bit SSL) to protect your data. Your financial information is never shared.
         </p>
       </details>
       <details>
         <summary>
-          <span>Puis-je exporter mes données pour mon comptable ?</span>
+          <span>Can I export my data for my accountant?</span>
         </summary>
         <p>
-          Oui ! Vous pouvez exporter toutes vos factures et dépenses aux formats
-          CSV, PDF ou Excel. Nous proposons aussi des imports directs.
+          Yes! You can export all your invoices and expenses in CSV, PDF or Excel format. We also offer direct imports.
         </p>
       </details>
-      <a
-        >Voir toutes les questions
-        <i class="fa-solid fa-arrow-up-right-from-square"></i
-      ></a>
+    
     </section>
     <section class="contacts">
       <div class="contacts_txt">
-        <h1>Prêt à simplifier votre gestion ?</h1>
+        <h1>Ready to simplify your management?</h1>
         <span
-          >Rejoignez des milliers de professionnels qui utilisent Invoicely pour
-          faire décoller leur entreprise. 14 jours d'essai gratuit, aucune carte
-          de crédit requise.
+          >Join thousands of professionals who use Invoicely to grow their businesses. 14-day free trial, no credit card required.
         </span>
       </div>
-      <button>Contacter l'équipe</button>
+      <button>Contact</button>
     </section>
 </>
 )

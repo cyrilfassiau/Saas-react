@@ -170,19 +170,8 @@ export default function Faq() {
           </span>
 
           <div className="more_questions_cards">
-            <div className="more_questions_card">
-              <i className="fa-solid fa-headset"></i>
-              <h3>Contact Support</h3>
-              <span>We&apos;re here to help with any issue.</span>
-              <a href="#">Get in touch</a>
-            </div>
+            
 
-            <div className="more_questions_card">
-              <i className="fa-solid fa-headset"></i>
-              <h3>Contact Support</h3>
-              <span>We&apos;re here to help with any issue.</span>
-              <a href="#">Get in touch</a>
-            </div>
 
             <div className="more_questions_card">
               <i className="fa-solid fa-headset"></i>

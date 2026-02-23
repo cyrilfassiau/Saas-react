@@ -37,21 +37,21 @@ export default function Pricing() {
             </div>
 
             <div className="card item-middle">
-              <div className="reco">PLAN RECOMMANDÉ</div>
+              <div className="reco">RECOMMENDED PLAN</div>
               <h2>Pro</h2>
-              <span>Pour les freelances</span>
+              <span>For the freelancers</span>
               <span>
-                <b>29€</b>/mois
+                <b>29€ </b>monthly
               </span>
 
               <ul>
-                <li>Clients illimités</li>
-                <li>Automatisation complète</li>
-                <li>Support prioritaire 24/7</li>
-                <li>Multi-devises &amp; Exports</li>
+                <li>Unlimited clients</li>
+                <li>Full automations</li>
+                <li>24/7 support</li>
+                <li>Multi-currencies and export</li>
               </ul>
 
-              <button type="button">Démarrer l&apos;essai gratuit</button>
+              <button type="button">Start free trial</button>
             </div>
 
             <div className="card" style={{ border: "1px solid #d0d0d0" }}>
@@ -75,7 +75,7 @@ export default function Pricing() {
       </section>
 
       <section className="plans_table">
-        <h2>Questions fréquentes</h2>
+        <h2>Frequently asked questions</h2>
 
         <div className="table">
           <table>
@@ -202,7 +202,7 @@ export default function Pricing() {
           </span>
         </div>
 
-        <button type="button">Contacter l&apos;équipe commerciale</button>
+        <button type="button">Contact sales team</button>
       </section>
     </>
   );
