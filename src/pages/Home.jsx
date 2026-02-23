@@ -5,11 +5,10 @@ export default function Home() {
  <section class="hero">
       <div class="hero_box">
         <div class="hero_txt">
-          <h5>New v2 is live!</h5>
-          <h1>Facturation simplifiée pour freelances et TPE</h1>
+          
+          <h1>Simplified invoicing for freelancers and small businesses</h1>
           <span
-            >Gérez vos clients et encaissez plus vite avec notre suite
-            tout-en-un.
+            >Manage your clients and get paid faster with our all-in-one suite.
             <br />
             Creating professional invoices has never been this seamless.
           </span>
